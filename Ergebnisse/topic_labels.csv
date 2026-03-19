@@ -1,0 +1,21 @@
+topic,top_terms,label_vorlaeufig,interpretation_kurz,brauchbar,topic_family
+1,"großbritannien, briten, ceta, vereinigten, britischen, niederlanden, britische, london, großbritannien_großbritannien, niederlande",Brexit / Großbritannien / CETA,NA,TRUE,eu_grossbritannien
+2,"cannabis, willy, bamf, amri, bundesamt, cannabis_cannabis, bundesamtes, maaßen, verfassungsschutz, kfor",Innere Sicherheit / BAMF / Cannabis,NA,TRUE,innenpolitik
+3,"ezb, chemnitz, äthiopien, bundesbank, zentralbank, ezb_ezb, eritrea, menschenrechte, aachen, zwickau",EZB / Bundesbank / Finanzpolitik,NA,FALSE,wirtschaft
+4,"afghanistan, nationen, vereinten, vereinten_nationen, afghanistan_afghanistan, taliban, nationen_vereinten, afghanischen, unmiss, darfur",Afghanistan / UN / Taliban,NA,TRUE,afghanistan
+5,"afrika, saudi, arabien, saudi_arabien, afrikanischen, afrika_afrika, jemen, schwedt, afrikanische, katar",Afrika / Saudi-Arabien / Jemen,NA,TRUE,afrika_nahost
+6,"for, portugal, iwf, saarland, amazon, internationalen, esm, bmu, gap, irland",EU / IWF / internationale Wirtschaft,NA,FALSE,europa_misc
+7,"hartz, kfw, hartz_hartz, atalanta, weimarer, europol, erdogan, syrische, bundesagentur, bnd",Hartz / KfW / Sicherheit,NA,FALSE,sozialstaat_misc
+8,"bundeswehr, bundeswehr_bundeswehr, myanmar, bundeswehr_nato, nato_bundeswehr, ksk, roma, yücel, six, bangladesch",Bundeswehr / NATO / Auslandseinsätze,NA,TRUE,militaer
+9,"karlsruhe, ausschusses, lausitz, bundesrechnungshof, bundesrates, fiu, long, energie, hannover, karlsruhe_karlsruhe",Karlsruhe / Energie / Kontrolle,NA,FALSE,kontrolle_misc
+10,"demokraten, freien, freien_demokraten, act, hohen, lufthansa, ukrainekrieg, bmg, bmwk, schweizer",Freie Demokraten / Krise / Verwaltung,NA,FALSE,parteien_misc
+11,"hisbollah, hamas, georgien, israelischen, iranischen, aserbaidschan, israelische, armenien, genfer, herzegowina",Nahost / Israel / Iran,NA,TRUE,nahost
+12,"rhein, chemnitz, neckar, rhein_neckar, schielke, ziesing, schielke_ziesing, sarai, djir_sarai, djir",Chemnitz / Regionalbezüge,NA,FALSE,regional_misc
+13,"ddr, ddr_ddr, sed, eeg, ostdeutsche, westdeutschland, münster, thüringer, npd, ost",DDR / Ostdeutschland,NA,TRUE,ostdeutschland
+14,"hass, hanau, eugh, zeitung, frankfurter, lübcke, halle, sgb, antifa, faz",Rechtsextremismus / Hanau / Lübcke,NA,TRUE,rechtsextremismus
+15,"russischen, russische, russlands, putins, ukrainischen, zweiten, weltkrieg, ukrainische, sowjetunion, zweiten_weltkrieg",Russland / Ukraine / Osteuropa,NA,TRUE,ukraine
+16,"dollar, bayerischen, chinesischen, bayerische, chinesische, tschechien, chinas, oecd, australien, chinesen",China / Weltwirtschaft,NA,TRUE,china_weltwirtschaft
+17,"paris, pariser, brasilien, europarat, green, erde, ostsee, deal, green_deal, lateinamerika",Green Deal / Paris / Lateinamerika,NA,TRUE,klima_eu
+18,"mittelmeer, libyen, öpnv, sea, öpnv_öpnv, tunesien, libyen_libyen, sophia, irini, libyschen",Mittelmeer / Libyen,NA,FALSE,mittelmeer
+19,"welle, minusma, malischen, welle_welle, venezuela, eutm, the, demokratischen, malische, youtube",Sahel / MINUSMA / Auslandseinsatz,NA,FALSE,sahel
+20,"nato, staaten, vereinigten, vereinigten_staaten, schweden, nato_nato, donald, osteuropa, finnland, washington",NATO / USA / Osteuropa,NA,TRUE,militaer

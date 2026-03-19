@@ -1,0 +1,121 @@
+Partei,Topic,Thema,Nichtwahljahr (%),Wahljahr (%),Differenz (%)
+AfD,T1,Brexit / Großbritannien / CETA,5.08,5.01,-0.07
+CDU/CSU,T1,Brexit / Großbritannien / CETA,5.02,5.43,0.41
+FDP,T1,Brexit / Großbritannien / CETA,4.95,5.03,0.08
+Grüne,T1,Brexit / Großbritannien / CETA,4.84,4.98,0.14
+Linke,T1,Brexit / Großbritannien / CETA,4.89,5.25,0.36
+SPD,T1,Brexit / Großbritannien / CETA,4.84,5.24,0.4
+AfD,T2,Innere Sicherheit / BAMF / Cannabis,5.04,4.97,-0.07
+CDU/CSU,T2,Innere Sicherheit / BAMF / Cannabis,4.92,4.97,0.05
+FDP,T2,Innere Sicherheit / BAMF / Cannabis,4.81,4.8,-0.01
+Grüne,T2,Innere Sicherheit / BAMF / Cannabis,4.8,5.16,0.36
+Linke,T2,Innere Sicherheit / BAMF / Cannabis,4.86,5.16,0.3
+SPD,T2,Innere Sicherheit / BAMF / Cannabis,4.92,5.01,0.09
+AfD,T3,EZB / Bundesbank / Finanzpolitik,4.83,4.72,-0.11
+CDU/CSU,T3,EZB / Bundesbank / Finanzpolitik,4.64,4.93,0.29
+FDP,T3,EZB / Bundesbank / Finanzpolitik,4.65,4.61,-0.04
+Grüne,T3,EZB / Bundesbank / Finanzpolitik,4.63,5.06,0.43
+Linke,T3,EZB / Bundesbank / Finanzpolitik,4.6,4.77,0.18
+SPD,T3,EZB / Bundesbank / Finanzpolitik,4.65,5.06,0.42
+AfD,T4,Afghanistan / UN / Taliban,4.99,5.35,0.37
+CDU/CSU,T4,Afghanistan / UN / Taliban,5.01,5.37,0.35
+FDP,T4,Afghanistan / UN / Taliban,4.99,5.37,0.38
+Grüne,T4,Afghanistan / UN / Taliban,5.24,5.58,0.34
+Linke,T4,Afghanistan / UN / Taliban,5.03,5.22,0.19
+SPD,T4,Afghanistan / UN / Taliban,5.03,5.5,0.47
+AfD,T5,Afrika / Saudi-Arabien / Jemen,5.15,5.02,-0.13
+CDU/CSU,T5,Afrika / Saudi-Arabien / Jemen,5.03,5.04,0.01
+FDP,T5,Afrika / Saudi-Arabien / Jemen,4.91,4.93,0.02
+Grüne,T5,Afrika / Saudi-Arabien / Jemen,5.06,5.09,0.03
+Linke,T5,Afrika / Saudi-Arabien / Jemen,5.25,5.19,-0.06
+SPD,T5,Afrika / Saudi-Arabien / Jemen,4.91,4.85,-0.06
+AfD,T6,EU / IWF / internationale Wirtschaft,5.02,5.18,0.16
+CDU/CSU,T6,EU / IWF / internationale Wirtschaft,4.88,5.04,0.16
+FDP,T6,EU / IWF / internationale Wirtschaft,4.85,5,0.15
+Grüne,T6,EU / IWF / internationale Wirtschaft,4.99,5.09,0.1
+Linke,T6,EU / IWF / internationale Wirtschaft,5.12,5.34,0.22
+SPD,T6,EU / IWF / internationale Wirtschaft,4.94,5.09,0.15
+AfD,T7,Hartz / KfW / Sicherheit,4.94,5.13,0.18
+CDU/CSU,T7,Hartz / KfW / Sicherheit,4.92,5.05,0.13
+FDP,T7,Hartz / KfW / Sicherheit,4.91,4.88,-0.03
+Grüne,T7,Hartz / KfW / Sicherheit,4.87,4.98,0.11
+Linke,T7,Hartz / KfW / Sicherheit,5.34,5.52,0.18
+SPD,T7,Hartz / KfW / Sicherheit,4.84,5.08,0.24
+AfD,T8,Bundeswehr / NATO / Auslandseinsätze,5.03,5.07,0.04
+CDU/CSU,T8,Bundeswehr / NATO / Auslandseinsätze,5.05,4.99,-0.07
+FDP,T8,Bundeswehr / NATO / Auslandseinsätze,4.95,4.93,-0.02
+Grüne,T8,Bundeswehr / NATO / Auslandseinsätze,4.91,4.77,-0.14
+Linke,T8,Bundeswehr / NATO / Auslandseinsätze,5.01,5.03,0.03
+SPD,T8,Bundeswehr / NATO / Auslandseinsätze,5.06,4.94,-0.12
+AfD,T9,Karlsruhe / Energie / Kontrolle,4.83,4.86,0.03
+CDU/CSU,T9,Karlsruhe / Energie / Kontrolle,5.06,4.91,-0.15
+FDP,T9,Karlsruhe / Energie / Kontrolle,4.95,5,0.05
+Grüne,T9,Karlsruhe / Energie / Kontrolle,4.93,4.98,0.05
+Linke,T9,Karlsruhe / Energie / Kontrolle,4.87,4.82,-0.05
+SPD,T9,Karlsruhe / Energie / Kontrolle,5.03,4.94,-0.09
+AfD,T10,Freie Demokraten / Krise / Verwaltung,4.96,4.93,-0.03
+CDU/CSU,T10,Freie Demokraten / Krise / Verwaltung,4.89,4.83,-0.06
+FDP,T10,Freie Demokraten / Krise / Verwaltung,5.54,5.64,0.1
+Grüne,T10,Freie Demokraten / Krise / Verwaltung,4.96,4.74,-0.22
+Linke,T10,Freie Demokraten / Krise / Verwaltung,4.77,4.67,-0.1
+SPD,T10,Freie Demokraten / Krise / Verwaltung,4.9,4.78,-0.12
+AfD,T11,Nahost / Israel / Iran,5.02,4.98,-0.04
+CDU/CSU,T11,Nahost / Israel / Iran,4.95,4.69,-0.26
+FDP,T11,Nahost / Israel / Iran,4.96,4.67,-0.29
+Grüne,T11,Nahost / Israel / Iran,5,4.9,-0.1
+Linke,T11,Nahost / Israel / Iran,4.91,4.8,-0.11
+SPD,T11,Nahost / Israel / Iran,5.03,4.88,-0.15
+AfD,T12,Chemnitz / Regionalbezüge,4.45,4.47,0.03
+CDU/CSU,T12,Chemnitz / Regionalbezüge,5.34,4.9,-0.45
+FDP,T12,Chemnitz / Regionalbezüge,5.53,5.93,0.39
+Grüne,T12,Chemnitz / Regionalbezüge,5.55,5.84,0.29
+Linke,T12,Chemnitz / Regionalbezüge,5.67,5.31,-0.35
+SPD,T12,Chemnitz / Regionalbezüge,5.44,5.23,-0.21
+AfD,T13,DDR / Ostdeutschland,5.14,4.97,-0.16
+CDU/CSU,T13,DDR / Ostdeutschland,5.07,4.87,-0.19
+FDP,T13,DDR / Ostdeutschland,4.98,4.72,-0.26
+Grüne,T13,DDR / Ostdeutschland,4.92,4.71,-0.21
+Linke,T13,DDR / Ostdeutschland,5.02,4.77,-0.25
+SPD,T13,DDR / Ostdeutschland,5.09,4.84,-0.25
+AfD,T14,Rechtsextremismus / Hanau / Lübcke,5.07,5.11,0.05
+CDU/CSU,T14,Rechtsextremismus / Hanau / Lübcke,4.93,4.92,-0.01
+FDP,T14,Rechtsextremismus / Hanau / Lübcke,4.88,4.86,-0.02
+Grüne,T14,Rechtsextremismus / Hanau / Lübcke,4.99,4.82,-0.17
+Linke,T14,Rechtsextremismus / Hanau / Lübcke,5.06,4.83,-0.23
+SPD,T14,Rechtsextremismus / Hanau / Lübcke,5.06,4.93,-0.13
+AfD,T15,Russland / Ukraine / Osteuropa,5.31,5.08,-0.23
+CDU/CSU,T15,Russland / Ukraine / Osteuropa,5.23,5.04,-0.19
+FDP,T15,Russland / Ukraine / Osteuropa,5.42,5.02,-0.4
+Grüne,T15,Russland / Ukraine / Osteuropa,5.54,5.02,-0.52
+Linke,T15,Russland / Ukraine / Osteuropa,5.04,4.82,-0.21
+SPD,T15,Russland / Ukraine / Osteuropa,5.32,4.99,-0.33
+AfD,T16,China / Weltwirtschaft,5.14,5.11,-0.02
+CDU/CSU,T16,China / Weltwirtschaft,5.05,4.92,-0.14
+FDP,T16,China / Weltwirtschaft,4.94,4.88,-0.06
+Grüne,T16,China / Weltwirtschaft,4.95,4.81,-0.13
+Linke,T16,China / Weltwirtschaft,4.84,4.79,-0.05
+SPD,T16,China / Weltwirtschaft,4.96,4.79,-0.16
+AfD,T17,Green Deal / Paris / Lateinamerika,5.01,4.9,-0.11
+CDU/CSU,T17,Green Deal / Paris / Lateinamerika,4.95,4.93,-0.02
+FDP,T17,Green Deal / Paris / Lateinamerika,4.92,4.82,-0.1
+Grüne,T17,Green Deal / Paris / Lateinamerika,5.1,4.95,-0.15
+Linke,T17,Green Deal / Paris / Lateinamerika,4.84,4.75,-0.09
+SPD,T17,Green Deal / Paris / Lateinamerika,5.04,4.97,-0.07
+AfD,T18,Mittelmeer / Libyen,4.92,5.01,0.09
+CDU/CSU,T18,Mittelmeer / Libyen,4.97,5.13,0.16
+FDP,T18,Mittelmeer / Libyen,4.89,5,0.11
+Grüne,T18,Mittelmeer / Libyen,4.98,4.89,-0.08
+Linke,T18,Mittelmeer / Libyen,5.07,5.21,0.15
+SPD,T18,Mittelmeer / Libyen,4.9,4.9,-0.01
+AfD,T19,Sahel / MINUSMA / Auslandseinsatz,4.91,5.04,0.12
+CDU/CSU,T19,Sahel / MINUSMA / Auslandseinsatz,4.93,4.95,0.02
+FDP,T19,Sahel / MINUSMA / Auslandseinsatz,4.93,4.93,-0.01
+Grüne,T19,Sahel / MINUSMA / Auslandseinsatz,4.9,4.83,-0.06
+Linke,T19,Sahel / MINUSMA / Auslandseinsatz,4.8,4.83,0.03
+SPD,T19,Sahel / MINUSMA / Auslandseinsatz,4.97,5,0.03
+AfD,T20,NATO / USA / Osteuropa,5.16,5.07,-0.08
+CDU/CSU,T20,NATO / USA / Osteuropa,5.16,5.1,-0.05
+FDP,T20,NATO / USA / Osteuropa,5.03,4.98,-0.04
+Grüne,T20,NATO / USA / Osteuropa,4.88,4.81,-0.07
+Linke,T20,NATO / USA / Osteuropa,5.01,4.89,-0.12
+SPD,T20,NATO / USA / Osteuropa,5.04,4.97,-0.07

@@ -1,0 +1,6 @@
+topic,label_vorlaeufig,top_terms,Nichtwahljahr,Wahljahr,diff_wahljahr_minus_nichtwahljahr,topic_family,brauchbar,abs_diff
+4,Afghanistan / UN / Taliban,"afghanistan, nationen, vereinten, vereinten_nationen, afghanistan_afghanistan, taliban, nationen_vereinten, afghanischen, unmiss, darfur",0.05012959218639622,0.052939549277454846,0.0028099570910586277,afghanistan,TRUE,0.0028099570910586277
+1,Brexit / Großbritannien / CETA,"großbritannien, briten, ceta, vereinigten, britischen, niederlanden, britische, london, großbritannien_großbritannien, niederlande",0.0493431854300348,0.0513330616634429,0.0019898762334081,eu_grossbritannien,TRUE,0.0019898762334081
+11,Nahost / Israel / Iran,"hisbollah, hamas, georgien, israelischen, iranischen, aserbaidschan, israelische, armenien, genfer, herzegowina",0.04977654180515977,0.04837385778288807,-0.0014026840222716996,nahost,TRUE,0.0014026840222716996
+13,DDR / Ostdeutschland,"ddr, ddr_ddr, sed, eeg, ostdeutsche, westdeutschland, münster, thüringer, npd, ost",0.050363479046013133,0.048405245177724,-0.0019582338682891318,ostdeutschland,TRUE,0.0019582338682891318
+15,Russland / Ukraine / Osteuropa,"russischen, russische, russlands, putins, ukrainischen, zweiten, weltkrieg, ukrainische, sowjetunion, zweiten_weltkrieg",0.05215744871059003,0.04928564290153996,-0.002871805809050075,ukraine,TRUE,0.002871805809050075

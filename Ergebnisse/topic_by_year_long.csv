@@ -1,0 +1,141 @@
+year,topic_name,mean_theta,topic,top_terms,label_vorlaeufig,interpretation_kurz,brauchbar,topic_family
+2017,Topic_1,0.05457884401728429,1,"großbritannien, briten, ceta, vereinigten, britischen, niederlanden, britische, london, großbritannien_großbritannien, niederlande",Brexit / Großbritannien / CETA,NA,TRUE,eu_grossbritannien
+2017,Topic_2,0.05251316349452346,2,"cannabis, willy, bamf, amri, bundesamt, cannabis_cannabis, bundesamtes, maaßen, verfassungsschutz, kfor",Innere Sicherheit / BAMF / Cannabis,NA,TRUE,innenpolitik
+2017,Topic_3,0.05491013852734533,3,"ezb, chemnitz, äthiopien, bundesbank, zentralbank, ezb_ezb, eritrea, menschenrechte, aachen, zwickau",EZB / Bundesbank / Finanzpolitik,NA,FALSE,wirtschaft
+2017,Topic_4,0.05405919919669534,4,"afghanistan, nationen, vereinten, vereinten_nationen, afghanistan_afghanistan, taliban, nationen_vereinten, afghanischen, unmiss, darfur",Afghanistan / UN / Taliban,NA,TRUE,afghanistan
+2017,Topic_5,0.05113270371241664,5,"afrika, saudi, arabien, saudi_arabien, afrikanischen, afrika_afrika, jemen, schwedt, afrikanische, katar",Afrika / Saudi-Arabien / Jemen,NA,TRUE,afrika_nahost
+2017,Topic_6,0.05200764610099856,6,"for, portugal, iwf, saarland, amazon, internationalen, esm, bmu, gap, irland",EU / IWF / internationale Wirtschaft,NA,FALSE,europa_misc
+2017,Topic_7,0.053400572057468565,7,"hartz, kfw, hartz_hartz, atalanta, weimarer, europol, erdogan, syrische, bundesagentur, bnd",Hartz / KfW / Sicherheit,NA,FALSE,sozialstaat_misc
+2017,Topic_8,0.048857557175671334,8,"bundeswehr, bundeswehr_bundeswehr, myanmar, bundeswehr_nato, nato_bundeswehr, ksk, roma, yücel, six, bangladesch",Bundeswehr / NATO / Auslandseinsätze,NA,TRUE,militaer
+2017,Topic_9,0.048192948874300895,9,"karlsruhe, ausschusses, lausitz, bundesrechnungshof, bundesrates, fiu, long, energie, hannover, karlsruhe_karlsruhe",Karlsruhe / Energie / Kontrolle,NA,FALSE,kontrolle_misc
+2017,Topic_10,0.04732301027883859,10,"demokraten, freien, freien_demokraten, act, hohen, lufthansa, ukrainekrieg, bmg, bmwk, schweizer",Freie Demokraten / Krise / Verwaltung,NA,FALSE,parteien_misc
+2017,Topic_11,0.047637538654409936,11,"hisbollah, hamas, georgien, israelischen, iranischen, aserbaidschan, israelische, armenien, genfer, herzegowina",Nahost / Israel / Iran,NA,TRUE,nahost
+2017,Topic_12,0.0463251957247178,12,"rhein, chemnitz, neckar, rhein_neckar, schielke, ziesing, schielke_ziesing, sarai, djir_sarai, djir",Chemnitz / Regionalbezüge,NA,FALSE,regional_misc
+2017,Topic_13,0.04848213255532007,13,"ddr, ddr_ddr, sed, eeg, ostdeutsche, westdeutschland, münster, thüringer, npd, ost",DDR / Ostdeutschland,NA,TRUE,ostdeutschland
+2017,Topic_14,0.048115025586221084,14,"hass, hanau, eugh, zeitung, frankfurter, lübcke, halle, sgb, antifa, faz",Rechtsextremismus / Hanau / Lübcke,NA,TRUE,rechtsextremismus
+2017,Topic_15,0.04749867904960625,15,"russischen, russische, russlands, putins, ukrainischen, zweiten, weltkrieg, ukrainische, sowjetunion, zweiten_weltkrieg",Russland / Ukraine / Osteuropa,NA,TRUE,ukraine
+2017,Topic_16,0.048245859430493435,16,"dollar, bayerischen, chinesischen, bayerische, chinesische, tschechien, chinas, oecd, australien, chinesen",China / Weltwirtschaft,NA,TRUE,china_weltwirtschaft
+2017,Topic_17,0.04845836473948529,17,"paris, pariser, brasilien, europarat, green, erde, ostsee, deal, green_deal, lateinamerika",Green Deal / Paris / Lateinamerika,NA,TRUE,klima_eu
+2017,Topic_18,0.049965142138579534,18,"mittelmeer, libyen, öpnv, sea, öpnv_öpnv, tunesien, libyen_libyen, sophia, irini, libyschen",Mittelmeer / Libyen,NA,FALSE,mittelmeer
+2017,Topic_19,0.049018385905543506,19,"welle, minusma, malischen, welle_welle, venezuela, eutm, the, demokratischen, malische, youtube",Sahel / MINUSMA / Auslandseinsatz,NA,FALSE,sahel
+2017,Topic_20,0.04927789278008008,20,"nato, staaten, vereinigten, vereinigten_staaten, schweden, nato_nato, donald, osteuropa, finnland, washington",NATO / USA / Osteuropa,NA,TRUE,militaer
+2018,Topic_1,0.05085388719764328,1,"großbritannien, briten, ceta, vereinigten, britischen, niederlanden, britische, london, großbritannien_großbritannien, niederlande",Brexit / Großbritannien / CETA,NA,TRUE,eu_grossbritannien
+2018,Topic_2,0.05009560616017612,2,"cannabis, willy, bamf, amri, bundesamt, cannabis_cannabis, bundesamtes, maaßen, verfassungsschutz, kfor",Innere Sicherheit / BAMF / Cannabis,NA,TRUE,innenpolitik
+2018,Topic_3,0.04759607349893689,3,"ezb, chemnitz, äthiopien, bundesbank, zentralbank, ezb_ezb, eritrea, menschenrechte, aachen, zwickau",EZB / Bundesbank / Finanzpolitik,NA,FALSE,wirtschaft
+2018,Topic_4,0.05230946515572454,4,"afghanistan, nationen, vereinten, vereinten_nationen, afghanistan_afghanistan, taliban, nationen_vereinten, afghanischen, unmiss, darfur",Afghanistan / UN / Taliban,NA,TRUE,afghanistan
+2018,Topic_5,0.05168431005150746,5,"afrika, saudi, arabien, saudi_arabien, afrikanischen, afrika_afrika, jemen, schwedt, afrikanische, katar",Afrika / Saudi-Arabien / Jemen,NA,TRUE,afrika_nahost
+2018,Topic_6,0.05178858029594642,6,"for, portugal, iwf, saarland, amazon, internationalen, esm, bmu, gap, irland",EU / IWF / internationale Wirtschaft,NA,FALSE,europa_misc
+2018,Topic_7,0.050945678387492956,7,"hartz, kfw, hartz_hartz, atalanta, weimarer, europol, erdogan, syrische, bundesagentur, bnd",Hartz / KfW / Sicherheit,NA,FALSE,sozialstaat_misc
+2018,Topic_8,0.05057825969856254,8,"bundeswehr, bundeswehr_bundeswehr, myanmar, bundeswehr_nato, nato_bundeswehr, ksk, roma, yücel, six, bangladesch",Bundeswehr / NATO / Auslandseinsätze,NA,TRUE,militaer
+2018,Topic_9,0.050347836709418975,9,"karlsruhe, ausschusses, lausitz, bundesrechnungshof, bundesrates, fiu, long, energie, hannover, karlsruhe_karlsruhe",Karlsruhe / Energie / Kontrolle,NA,FALSE,kontrolle_misc
+2018,Topic_10,0.04938450678912169,10,"demokraten, freien, freien_demokraten, act, hohen, lufthansa, ukrainekrieg, bmg, bmwk, schweizer",Freie Demokraten / Krise / Verwaltung,NA,FALSE,parteien_misc
+2018,Topic_11,0.04835225225782274,11,"hisbollah, hamas, georgien, israelischen, iranischen, aserbaidschan, israelische, armenien, genfer, herzegowina",Nahost / Israel / Iran,NA,TRUE,nahost
+2018,Topic_12,0.0522661136038345,12,"rhein, chemnitz, neckar, rhein_neckar, schielke, ziesing, schielke_ziesing, sarai, djir_sarai, djir",Chemnitz / Regionalbezüge,NA,FALSE,regional_misc
+2018,Topic_13,0.04820122027470236,13,"ddr, ddr_ddr, sed, eeg, ostdeutsche, westdeutschland, münster, thüringer, npd, ost",DDR / Ostdeutschland,NA,TRUE,ostdeutschland
+2018,Topic_14,0.04910877578849053,14,"hass, hanau, eugh, zeitung, frankfurter, lübcke, halle, sgb, antifa, faz",Rechtsextremismus / Hanau / Lübcke,NA,TRUE,rechtsextremismus
+2018,Topic_15,0.04766616227650964,15,"russischen, russische, russlands, putins, ukrainischen, zweiten, weltkrieg, ukrainische, sowjetunion, zweiten_weltkrieg",Russland / Ukraine / Osteuropa,NA,TRUE,ukraine
+2018,Topic_16,0.049828868553648535,16,"dollar, bayerischen, chinesischen, bayerische, chinesische, tschechien, chinas, oecd, australien, chinesen",China / Weltwirtschaft,NA,TRUE,china_weltwirtschaft
+2018,Topic_17,0.048601455891719415,17,"paris, pariser, brasilien, europarat, green, erde, ostsee, deal, green_deal, lateinamerika",Green Deal / Paris / Lateinamerika,NA,TRUE,klima_eu
+2018,Topic_18,0.050606492306580146,18,"mittelmeer, libyen, öpnv, sea, öpnv_öpnv, tunesien, libyen_libyen, sophia, irini, libyschen",Mittelmeer / Libyen,NA,FALSE,mittelmeer
+2018,Topic_19,0.048811472473272305,19,"welle, minusma, malischen, welle_welle, venezuela, eutm, the, demokratischen, malische, youtube",Sahel / MINUSMA / Auslandseinsatz,NA,FALSE,sahel
+2018,Topic_20,0.050972982628888996,20,"nato, staaten, vereinigten, vereinigten_staaten, schweden, nato_nato, donald, osteuropa, finnland, washington",NATO / USA / Osteuropa,NA,TRUE,militaer
+2019,Topic_1,0.05173518976141037,1,"großbritannien, briten, ceta, vereinigten, britischen, niederlanden, britische, london, großbritannien_großbritannien, niederlande",Brexit / Großbritannien / CETA,NA,TRUE,eu_grossbritannien
+2019,Topic_2,0.04853075081083191,2,"cannabis, willy, bamf, amri, bundesamt, cannabis_cannabis, bundesamtes, maaßen, verfassungsschutz, kfor",Innere Sicherheit / BAMF / Cannabis,NA,TRUE,innenpolitik
+2019,Topic_3,0.04691090867359881,3,"ezb, chemnitz, äthiopien, bundesbank, zentralbank, ezb_ezb, eritrea, menschenrechte, aachen, zwickau",EZB / Bundesbank / Finanzpolitik,NA,FALSE,wirtschaft
+2019,Topic_4,0.049923302359152766,4,"afghanistan, nationen, vereinten, vereinten_nationen, afghanistan_afghanistan, taliban, nationen_vereinten, afghanischen, unmiss, darfur",Afghanistan / UN / Taliban,NA,TRUE,afghanistan
+2019,Topic_5,0.050402152197343036,5,"afrika, saudi, arabien, saudi_arabien, afrikanischen, afrika_afrika, jemen, schwedt, afrikanische, katar",Afrika / Saudi-Arabien / Jemen,NA,TRUE,afrika_nahost
+2019,Topic_6,0.05022237549305396,6,"for, portugal, iwf, saarland, amazon, internationalen, esm, bmu, gap, irland",EU / IWF / internationale Wirtschaft,NA,FALSE,europa_misc
+2019,Topic_7,0.05058072782287619,7,"hartz, kfw, hartz_hartz, atalanta, weimarer, europol, erdogan, syrische, bundesagentur, bnd",Hartz / KfW / Sicherheit,NA,FALSE,sozialstaat_misc
+2019,Topic_8,0.04941385534039552,8,"bundeswehr, bundeswehr_bundeswehr, myanmar, bundeswehr_nato, nato_bundeswehr, ksk, roma, yücel, six, bangladesch",Bundeswehr / NATO / Auslandseinsätze,NA,TRUE,militaer
+2019,Topic_9,0.05027735407115209,9,"karlsruhe, ausschusses, lausitz, bundesrechnungshof, bundesrates, fiu, long, energie, hannover, karlsruhe_karlsruhe",Karlsruhe / Energie / Kontrolle,NA,FALSE,kontrolle_misc
+2019,Topic_10,0.048910448175327505,10,"demokraten, freien, freien_demokraten, act, hohen, lufthansa, ukrainekrieg, bmg, bmwk, schweizer",Freie Demokraten / Krise / Verwaltung,NA,FALSE,parteien_misc
+2019,Topic_11,0.04893010159542074,11,"hisbollah, hamas, georgien, israelischen, iranischen, aserbaidschan, israelische, armenien, genfer, herzegowina",Nahost / Israel / Iran,NA,TRUE,nahost
+2019,Topic_12,0.053700615155844046,12,"rhein, chemnitz, neckar, rhein_neckar, schielke, ziesing, schielke_ziesing, sarai, djir_sarai, djir",Chemnitz / Regionalbezüge,NA,FALSE,regional_misc
+2019,Topic_13,0.0520133775696882,13,"ddr, ddr_ddr, sed, eeg, ostdeutsche, westdeutschland, münster, thüringer, npd, ost",DDR / Ostdeutschland,NA,TRUE,ostdeutschland
+2019,Topic_14,0.050452325043501216,14,"hass, hanau, eugh, zeitung, frankfurter, lübcke, halle, sgb, antifa, faz",Rechtsextremismus / Hanau / Lübcke,NA,TRUE,rechtsextremismus
+2019,Topic_15,0.04852345881685864,15,"russischen, russische, russlands, putins, ukrainischen, zweiten, weltkrieg, ukrainische, sowjetunion, zweiten_weltkrieg",Russland / Ukraine / Osteuropa,NA,TRUE,ukraine
+2019,Topic_16,0.050640184221048566,16,"dollar, bayerischen, chinesischen, bayerische, chinesische, tschechien, chinas, oecd, australien, chinesen",China / Weltwirtschaft,NA,TRUE,china_weltwirtschaft
+2019,Topic_17,0.05010144945908425,17,"paris, pariser, brasilien, europarat, green, erde, ostsee, deal, green_deal, lateinamerika",Green Deal / Paris / Lateinamerika,NA,TRUE,klima_eu
+2019,Topic_18,0.048093014102326394,18,"mittelmeer, libyen, öpnv, sea, öpnv_öpnv, tunesien, libyen_libyen, sophia, irini, libyschen",Mittelmeer / Libyen,NA,FALSE,mittelmeer
+2019,Topic_19,0.04953572669291413,19,"welle, minusma, malischen, welle_welle, venezuela, eutm, the, demokratischen, malische, youtube",Sahel / MINUSMA / Auslandseinsatz,NA,FALSE,sahel
+2019,Topic_20,0.05110268263817173,20,"nato, staaten, vereinigten, vereinigten_staaten, schweden, nato_nato, donald, osteuropa, finnland, washington",NATO / USA / Osteuropa,NA,TRUE,militaer
+2020,Topic_1,0.048752817505691735,1,"großbritannien, briten, ceta, vereinigten, britischen, niederlanden, britische, london, großbritannien_großbritannien, niederlande",Brexit / Großbritannien / CETA,NA,TRUE,eu_grossbritannien
+2020,Topic_2,0.049393075498133356,2,"cannabis, willy, bamf, amri, bundesamt, cannabis_cannabis, bundesamtes, maaßen, verfassungsschutz, kfor",Innere Sicherheit / BAMF / Cannabis,NA,TRUE,innenpolitik
+2020,Topic_3,0.047990238738654684,3,"ezb, chemnitz, äthiopien, bundesbank, zentralbank, ezb_ezb, eritrea, menschenrechte, aachen, zwickau",EZB / Bundesbank / Finanzpolitik,NA,FALSE,wirtschaft
+2020,Topic_4,0.05049191042741402,4,"afghanistan, nationen, vereinten, vereinten_nationen, afghanistan_afghanistan, taliban, nationen_vereinten, afghanischen, unmiss, darfur",Afghanistan / UN / Taliban,NA,TRUE,afghanistan
+2020,Topic_5,0.04823684920186671,5,"afrika, saudi, arabien, saudi_arabien, afrikanischen, afrika_afrika, jemen, schwedt, afrikanische, katar",Afrika / Saudi-Arabien / Jemen,NA,TRUE,afrika_nahost
+2020,Topic_6,0.049327040966797006,6,"for, portugal, iwf, saarland, amazon, internationalen, esm, bmu, gap, irland",EU / IWF / internationale Wirtschaft,NA,FALSE,europa_misc
+2020,Topic_7,0.04985072117141709,7,"hartz, kfw, hartz_hartz, atalanta, weimarer, europol, erdogan, syrische, bundesagentur, bnd",Hartz / KfW / Sicherheit,NA,FALSE,sozialstaat_misc
+2020,Topic_8,0.04936350417848434,8,"bundeswehr, bundeswehr_bundeswehr, myanmar, bundeswehr_nato, nato_bundeswehr, ksk, roma, yücel, six, bangladesch",Bundeswehr / NATO / Auslandseinsätze,NA,TRUE,militaer
+2020,Topic_9,0.049801170677309464,9,"karlsruhe, ausschusses, lausitz, bundesrechnungshof, bundesrates, fiu, long, energie, hannover, karlsruhe_karlsruhe",Karlsruhe / Energie / Kontrolle,NA,FALSE,kontrolle_misc
+2020,Topic_10,0.050733374575388325,10,"demokraten, freien, freien_demokraten, act, hohen, lufthansa, ukrainekrieg, bmg, bmwk, schweizer",Freie Demokraten / Krise / Verwaltung,NA,FALSE,parteien_misc
+2020,Topic_11,0.04973663825942202,11,"hisbollah, hamas, georgien, israelischen, iranischen, aserbaidschan, israelische, armenien, genfer, herzegowina",Nahost / Israel / Iran,NA,TRUE,nahost
+2020,Topic_12,0.05369770714456453,12,"rhein, chemnitz, neckar, rhein_neckar, schielke, ziesing, schielke_ziesing, sarai, djir_sarai, djir",Chemnitz / Regionalbezüge,NA,FALSE,regional_misc
+2020,Topic_13,0.05087047774989381,13,"ddr, ddr_ddr, sed, eeg, ostdeutsche, westdeutschland, münster, thüringer, npd, ost",DDR / Ostdeutschland,NA,TRUE,ostdeutschland
+2020,Topic_14,0.05222958494671217,14,"hass, hanau, eugh, zeitung, frankfurter, lübcke, halle, sgb, antifa, faz",Rechtsextremismus / Hanau / Lübcke,NA,TRUE,rechtsextremismus
+2020,Topic_15,0.0498330945779392,15,"russischen, russische, russlands, putins, ukrainischen, zweiten, weltkrieg, ukrainische, sowjetunion, zweiten_weltkrieg",Russland / Ukraine / Osteuropa,NA,TRUE,ukraine
+2020,Topic_16,0.05108235845559415,16,"dollar, bayerischen, chinesischen, bayerische, chinesische, tschechien, chinas, oecd, australien, chinesen",China / Weltwirtschaft,NA,TRUE,china_weltwirtschaft
+2020,Topic_17,0.050465182044151236,17,"paris, pariser, brasilien, europarat, green, erde, ostsee, deal, green_deal, lateinamerika",Green Deal / Paris / Lateinamerika,NA,TRUE,klima_eu
+2020,Topic_18,0.04934888505758119,18,"mittelmeer, libyen, öpnv, sea, öpnv_öpnv, tunesien, libyen_libyen, sophia, irini, libyschen",Mittelmeer / Libyen,NA,FALSE,mittelmeer
+2020,Topic_19,0.04932769795910414,19,"welle, minusma, malischen, welle_welle, venezuela, eutm, the, demokratischen, malische, youtube",Sahel / MINUSMA / Auslandseinsatz,NA,FALSE,sahel
+2020,Topic_20,0.04946767086388087,20,"nato, staaten, vereinigten, vereinigten_staaten, schweden, nato_nato, donald, osteuropa, finnland, washington",NATO / USA / Osteuropa,NA,TRUE,militaer
+2021,Topic_1,0.04900873819418962,1,"großbritannien, briten, ceta, vereinigten, britischen, niederlanden, britische, london, großbritannien_großbritannien, niederlande",Brexit / Großbritannien / CETA,NA,TRUE,eu_grossbritannien
+2021,Topic_2,0.04943202863199741,2,"cannabis, willy, bamf, amri, bundesamt, cannabis_cannabis, bundesamtes, maaßen, verfassungsschutz, kfor",Innere Sicherheit / BAMF / Cannabis,NA,TRUE,innenpolitik
+2021,Topic_3,0.04687910340831075,3,"ezb, chemnitz, äthiopien, bundesbank, zentralbank, ezb_ezb, eritrea, menschenrechte, aachen, zwickau",EZB / Bundesbank / Finanzpolitik,NA,FALSE,wirtschaft
+2021,Topic_4,0.052137761510767947,4,"afghanistan, nationen, vereinten, vereinten_nationen, afghanistan_afghanistan, taliban, nationen_vereinten, afghanischen, unmiss, darfur",Afghanistan / UN / Taliban,NA,TRUE,afghanistan
+2021,Topic_5,0.04889855700966743,5,"afrika, saudi, arabien, saudi_arabien, afrikanischen, afrika_afrika, jemen, schwedt, afrikanische, katar",Afrika / Saudi-Arabien / Jemen,NA,TRUE,afrika_nahost
+2021,Topic_6,0.05074370952505303,6,"for, portugal, iwf, saarland, amazon, internationalen, esm, bmu, gap, irland",EU / IWF / internationale Wirtschaft,NA,FALSE,europa_misc
+2021,Topic_7,0.049029550858450593,7,"hartz, kfw, hartz_hartz, atalanta, weimarer, europol, erdogan, syrische, bundesagentur, bnd",Hartz / KfW / Sicherheit,NA,FALSE,sozialstaat_misc
+2021,Topic_8,0.05004932168915322,8,"bundeswehr, bundeswehr_bundeswehr, myanmar, bundeswehr_nato, nato_bundeswehr, ksk, roma, yücel, six, bangladesch",Bundeswehr / NATO / Auslandseinsätze,NA,TRUE,militaer
+2021,Topic_9,0.0509020753707465,9,"karlsruhe, ausschusses, lausitz, bundesrechnungshof, bundesrates, fiu, long, energie, hannover, karlsruhe_karlsruhe",Karlsruhe / Energie / Kontrolle,NA,FALSE,kontrolle_misc
+2021,Topic_10,0.05045395231021484,10,"demokraten, freien, freien_demokraten, act, hohen, lufthansa, ukrainekrieg, bmg, bmwk, schweizer",Freie Demokraten / Krise / Verwaltung,NA,FALSE,parteien_misc
+2021,Topic_11,0.04890114015878626,11,"hisbollah, hamas, georgien, israelischen, iranischen, aserbaidschan, israelische, armenien, genfer, herzegowina",Nahost / Israel / Iran,NA,TRUE,nahost
+2021,Topic_12,0.055338152968910335,12,"rhein, chemnitz, neckar, rhein_neckar, schielke, ziesing, schielke_ziesing, sarai, djir_sarai, djir",Chemnitz / Regionalbezüge,NA,FALSE,regional_misc
+2021,Topic_13,0.048350185683046415,13,"ddr, ddr_ddr, sed, eeg, ostdeutsche, westdeutschland, münster, thüringer, npd, ost",DDR / Ostdeutschland,NA,TRUE,ostdeutschland
+2021,Topic_14,0.050483426363048756,14,"hass, hanau, eugh, zeitung, frankfurter, lübcke, halle, sgb, antifa, faz",Rechtsextremismus / Hanau / Lübcke,NA,TRUE,rechtsextremismus
+2021,Topic_15,0.05056529802531652,15,"russischen, russische, russlands, putins, ukrainischen, zweiten, weltkrieg, ukrainische, sowjetunion, zweiten_weltkrieg",Russland / Ukraine / Osteuropa,NA,TRUE,ukraine
+2021,Topic_16,0.049767166465215326,16,"dollar, bayerischen, chinesischen, bayerische, chinesische, tschechien, chinas, oecd, australien, chinesen",China / Weltwirtschaft,NA,TRUE,china_weltwirtschaft
+2021,Topic_17,0.0498376139982529,17,"paris, pariser, brasilien, europarat, green, erde, ostsee, deal, green_deal, lateinamerika",Green Deal / Paris / Lateinamerika,NA,TRUE,klima_eu
+2021,Topic_18,0.04990011491434061,18,"mittelmeer, libyen, öpnv, sea, öpnv_öpnv, tunesien, libyen_libyen, sophia, irini, libyschen",Mittelmeer / Libyen,NA,FALSE,mittelmeer
+2021,Topic_19,0.0499271029121829,19,"welle, minusma, malischen, welle_welle, venezuela, eutm, the, demokratischen, malische, youtube",Sahel / MINUSMA / Auslandseinsatz,NA,FALSE,sahel
+2021,Topic_20,0.049395000002348616,20,"nato, staaten, vereinigten, vereinigten_staaten, schweden, nato_nato, donald, osteuropa, finnland, washington",NATO / USA / Osteuropa,NA,TRUE,militaer
+2022,Topic_1,0.047553816605739326,1,"großbritannien, briten, ceta, vereinigten, britischen, niederlanden, britische, london, großbritannien_großbritannien, niederlande",Brexit / Großbritannien / CETA,NA,TRUE,eu_grossbritannien
+2022,Topic_2,0.04983850740088746,2,"cannabis, willy, bamf, amri, bundesamt, cannabis_cannabis, bundesamtes, maaßen, verfassungsschutz, kfor",Innere Sicherheit / BAMF / Cannabis,NA,TRUE,innenpolitik
+2022,Topic_3,0.046249954912944785,3,"ezb, chemnitz, äthiopien, bundesbank, zentralbank, ezb_ezb, eritrea, menschenrechte, aachen, zwickau",EZB / Bundesbank / Finanzpolitik,NA,FALSE,wirtschaft
+2022,Topic_4,0.049511799541444,4,"afghanistan, nationen, vereinten, vereinten_nationen, afghanistan_afghanistan, taliban, nationen_vereinten, afghanischen, unmiss, darfur",Afghanistan / UN / Taliban,NA,TRUE,afghanistan
+2022,Topic_5,0.050747936537732574,5,"afrika, saudi, arabien, saudi_arabien, afrikanischen, afrika_afrika, jemen, schwedt, afrikanische, katar",Afrika / Saudi-Arabien / Jemen,NA,TRUE,afrika_nahost
+2022,Topic_6,0.048922398401791245,6,"for, portugal, iwf, saarland, amazon, internationalen, esm, bmu, gap, irland",EU / IWF / internationale Wirtschaft,NA,FALSE,europa_misc
+2022,Topic_7,0.04856577901369017,7,"hartz, kfw, hartz_hartz, atalanta, weimarer, europol, erdogan, syrische, bundesagentur, bnd",Hartz / KfW / Sicherheit,NA,FALSE,sozialstaat_misc
+2022,Topic_8,0.05083671608381403,8,"bundeswehr, bundeswehr_bundeswehr, myanmar, bundeswehr_nato, nato_bundeswehr, ksk, roma, yücel, six, bangladesch",Bundeswehr / NATO / Auslandseinsätze,NA,TRUE,militaer
+2022,Topic_9,0.048787465027066164,9,"karlsruhe, ausschusses, lausitz, bundesrechnungshof, bundesrates, fiu, long, energie, hannover, karlsruhe_karlsruhe",Karlsruhe / Energie / Kontrolle,NA,FALSE,kontrolle_misc
+2022,Topic_10,0.04982049722760679,10,"demokraten, freien, freien_demokraten, act, hohen, lufthansa, ukrainekrieg, bmg, bmwk, schweizer",Freie Demokraten / Krise / Verwaltung,NA,FALSE,parteien_misc
+2022,Topic_11,0.049122080666872556,11,"hisbollah, hamas, georgien, israelischen, iranischen, aserbaidschan, israelische, armenien, genfer, herzegowina",Nahost / Israel / Iran,NA,TRUE,nahost
+2022,Topic_12,0.05324878018383793,12,"rhein, chemnitz, neckar, rhein_neckar, schielke, ziesing, schielke_ziesing, sarai, djir_sarai, djir",Chemnitz / Regionalbezüge,NA,FALSE,regional_misc
+2022,Topic_13,0.049607724755072635,13,"ddr, ddr_ddr, sed, eeg, ostdeutsche, westdeutschland, münster, thüringer, npd, ost",DDR / Ostdeutschland,NA,TRUE,ostdeutschland
+2022,Topic_14,0.050080865256041635,14,"hass, hanau, eugh, zeitung, frankfurter, lübcke, halle, sgb, antifa, faz",Rechtsextremismus / Hanau / Lübcke,NA,TRUE,rechtsextremismus
+2022,Topic_15,0.06006217917163908,15,"russischen, russische, russlands, putins, ukrainischen, zweiten, weltkrieg, ukrainische, sowjetunion, zweiten_weltkrieg",Russland / Ukraine / Osteuropa,NA,TRUE,ukraine
+2022,Topic_16,0.04906195021019953,16,"dollar, bayerischen, chinesischen, bayerische, chinesische, tschechien, chinas, oecd, australien, chinesen",China / Weltwirtschaft,NA,TRUE,china_weltwirtschaft
+2022,Topic_17,0.04891967595891546,17,"paris, pariser, brasilien, europarat, green, erde, ostsee, deal, green_deal, lateinamerika",Green Deal / Paris / Lateinamerika,NA,TRUE,klima_eu
+2022,Topic_18,0.048108740035506435,18,"mittelmeer, libyen, öpnv, sea, öpnv_öpnv, tunesien, libyen_libyen, sophia, irini, libyschen",Mittelmeer / Libyen,NA,FALSE,mittelmeer
+2022,Topic_19,0.05009928664960194,19,"welle, minusma, malischen, welle_welle, venezuela, eutm, the, demokratischen, malische, youtube",Sahel / MINUSMA / Auslandseinsatz,NA,FALSE,sahel
+2022,Topic_20,0.05085384635959611,20,"nato, staaten, vereinigten, vereinigten_staaten, schweden, nato_nato, donald, osteuropa, finnland, washington",NATO / USA / Osteuropa,NA,TRUE,militaer
+2023,Topic_1,0.04819083358825797,1,"großbritannien, briten, ceta, vereinigten, britischen, niederlanden, britische, london, großbritannien_großbritannien, niederlande",Brexit / Großbritannien / CETA,NA,TRUE,eu_grossbritannien
+2023,Topic_2,0.050004799647639785,2,"cannabis, willy, bamf, amri, bundesamt, cannabis_cannabis, bundesamtes, maaßen, verfassungsschutz, kfor",Innere Sicherheit / BAMF / Cannabis,NA,TRUE,innenpolitik
+2023,Topic_3,0.04672191153069897,3,"ezb, chemnitz, äthiopien, bundesbank, zentralbank, ezb_ezb, eritrea, menschenrechte, aachen, zwickau",EZB / Bundesbank / Finanzpolitik,NA,FALSE,wirtschaft
+2023,Topic_4,0.04878202744055092,4,"afghanistan, nationen, vereinten, vereinten_nationen, afghanistan_afghanistan, taliban, nationen_vereinten, afghanischen, unmiss, darfur",Afghanistan / UN / Taliban,NA,TRUE,afghanistan
+2023,Topic_5,0.04972170122696248,5,"afrika, saudi, arabien, saudi_arabien, afrikanischen, afrika_afrika, jemen, schwedt, afrikanische, katar",Afrika / Saudi-Arabien / Jemen,NA,TRUE,afrika_nahost
+2023,Topic_6,0.04861820358354065,6,"for, portugal, iwf, saarland, amazon, internationalen, esm, bmu, gap, irland",EU / IWF / internationale Wirtschaft,NA,FALSE,europa_misc
+2023,Topic_7,0.04758166655097007,7,"hartz, kfw, hartz_hartz, atalanta, weimarer, europol, erdogan, syrische, bundesagentur, bnd",Hartz / KfW / Sicherheit,NA,FALSE,sozialstaat_misc
+2023,Topic_8,0.04947453434656684,8,"bundeswehr, bundeswehr_bundeswehr, myanmar, bundeswehr_nato, nato_bundeswehr, ksk, roma, yücel, six, bangladesch",Bundeswehr / NATO / Auslandseinsätze,NA,TRUE,militaer
+2023,Topic_9,0.05115166692870327,9,"karlsruhe, ausschusses, lausitz, bundesrechnungshof, bundesrates, fiu, long, energie, hannover, karlsruhe_karlsruhe",Karlsruhe / Energie / Kontrolle,NA,FALSE,kontrolle_misc
+2023,Topic_10,0.05172948620622062,10,"demokraten, freien, freien_demokraten, act, hohen, lufthansa, ukrainekrieg, bmg, bmwk, schweizer",Freie Demokraten / Krise / Verwaltung,NA,FALSE,parteien_misc
+2023,Topic_11,0.052339140884452205,11,"hisbollah, hamas, georgien, israelischen, iranischen, aserbaidschan, israelische, armenien, genfer, herzegowina",Nahost / Israel / Iran,NA,TRUE,nahost
+2023,Topic_12,0.052093183627637804,12,"rhein, chemnitz, neckar, rhein_neckar, schielke, ziesing, schielke_ziesing, sarai, djir_sarai, djir",Chemnitz / Regionalbezüge,NA,FALSE,regional_misc
+2023,Topic_13,0.050943347987413276,13,"ddr, ddr_ddr, sed, eeg, ostdeutsche, westdeutschland, münster, thüringer, npd, ost",DDR / Ostdeutschland,NA,TRUE,ostdeutschland
+2023,Topic_14,0.04930138529365184,14,"hass, hanau, eugh, zeitung, frankfurter, lübcke, halle, sgb, antifa, faz",Rechtsextremismus / Hanau / Lübcke,NA,TRUE,rechtsextremismus
+2023,Topic_15,0.05369466524435377,15,"russischen, russische, russlands, putins, ukrainischen, zweiten, weltkrieg, ukrainische, sowjetunion, zweiten_weltkrieg",Russland / Ukraine / Osteuropa,NA,TRUE,ukraine
+2023,Topic_16,0.049798687331130416,16,"dollar, bayerischen, chinesischen, bayerische, chinesische, tschechien, chinas, oecd, australien, chinesen",China / Weltwirtschaft,NA,TRUE,china_weltwirtschaft
+2023,Topic_17,0.05115067356064911,17,"paris, pariser, brasilien, europarat, green, erde, ostsee, deal, green_deal, lateinamerika",Green Deal / Paris / Lateinamerika,NA,TRUE,klima_eu
+2023,Topic_18,0.0503346219292107,18,"mittelmeer, libyen, öpnv, sea, öpnv_öpnv, tunesien, libyen_libyen, sophia, irini, libyschen",Mittelmeer / Libyen,NA,FALSE,mittelmeer
+2023,Topic_19,0.04943917481827528,19,"welle, minusma, malischen, welle_welle, venezuela, eutm, the, demokratischen, malische, youtube",Sahel / MINUSMA / Auslandseinsatz,NA,FALSE,sahel
+2023,Topic_20,0.048928288273114046,20,"nato, staaten, vereinigten, vereinigten_staaten, schweden, nato_nato, donald, osteuropa, finnland, washington",NATO / USA / Osteuropa,NA,TRUE,militaer

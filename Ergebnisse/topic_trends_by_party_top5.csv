@@ -1,0 +1,211 @@
+party,year,topic,label_vorlaeufig,mean_gamma,percent
+AfD,2017,1,Brexit / Großbritannien / CETA,0.06084105498676497,6.08
+AfD,2017,4,Afghanistan / UN / Taliban,0.07988497412866082,7.99
+AfD,2017,7,Hartz / KfW / Sicherheit,0.07013187358412833,7.01
+AfD,2017,15,Russland / Ukraine / Osteuropa,0.043856335518863844,4.39
+AfD,2017,20,NATO / USA / Osteuropa,0.05311073225234494,5.31
+AfD,2018,1,Brexit / Großbritannien / CETA,0.05269421813108784,5.27
+AfD,2018,4,Afghanistan / UN / Taliban,0.05211431246266437,5.21
+AfD,2018,7,Hartz / KfW / Sicherheit,0.05040923206135342,5.04
+AfD,2018,15,Russland / Ukraine / Osteuropa,0.04765141322665534,4.77
+AfD,2018,20,NATO / USA / Osteuropa,0.051420126313023985,5.14
+AfD,2019,1,Brexit / Großbritannien / CETA,0.053971426432207086,5.4
+AfD,2019,4,Afghanistan / UN / Taliban,0.04897025729469048,4.9
+AfD,2019,7,Hartz / KfW / Sicherheit,0.05052999748852747,5.05
+AfD,2019,15,Russland / Ukraine / Osteuropa,0.04919620340029019,4.92
+AfD,2019,20,NATO / USA / Osteuropa,0.05298626809104057,5.3
+AfD,2020,1,Brexit / Großbritannien / CETA,0.05031907025230811,5.03
+AfD,2020,4,Afghanistan / UN / Taliban,0.050245904448999804,5.02
+AfD,2020,7,Hartz / KfW / Sicherheit,0.0502721966549534,5.03
+AfD,2020,15,Russland / Ukraine / Osteuropa,0.05166486216466793,5.17
+AfD,2020,20,NATO / USA / Osteuropa,0.04988224006590241,4.99
+AfD,2021,1,Brexit / Großbritannien / CETA,0.049123284759139005,4.91
+AfD,2021,4,Afghanistan / UN / Taliban,0.05104236634263977,5.1
+AfD,2021,7,Hartz / KfW / Sicherheit,0.049467424204969516,4.95
+AfD,2021,15,Russland / Ukraine / Osteuropa,0.05149094391003379,5.15
+AfD,2021,20,NATO / USA / Osteuropa,0.05050315313275584,5.05
+AfD,2022,1,Brexit / Großbritannien / CETA,0.048272504070213225,4.83
+AfD,2022,4,Afghanistan / UN / Taliban,0.049856365554377106,4.99
+AfD,2022,7,Hartz / KfW / Sicherheit,0.0487862340073872,4.88
+AfD,2022,15,Russland / Ukraine / Osteuropa,0.061404963469159815,6.14
+AfD,2022,20,NATO / USA / Osteuropa,0.051723762246510444,5.17
+AfD,2023,1,Brexit / Großbritannien / CETA,0.04922654233335437,4.92
+AfD,2023,4,Afghanistan / UN / Taliban,0.04859166206914741,4.86
+AfD,2023,7,Hartz / KfW / Sicherheit,0.04752072779507175,4.75
+AfD,2023,15,Russland / Ukraine / Osteuropa,0.05452273762064417,5.45
+AfD,2023,20,NATO / USA / Osteuropa,0.05169617775949239,5.17
+CDU/CSU,2017,1,Brexit / Großbritannien / CETA,0.05946263472864029,5.95
+CDU/CSU,2017,4,Afghanistan / UN / Taliban,0.053888753851504455,5.39
+CDU/CSU,2017,12,Chemnitz / Regionalbezüge,0.04470923510608739,4.47
+CDU/CSU,2017,15,Russland / Ukraine / Osteuropa,0.04855963135026206,4.86
+CDU/CSU,2017,20,NATO / USA / Osteuropa,0.05123540058269286,5.12
+CDU/CSU,2018,1,Brexit / Großbritannien / CETA,0.052391798087412934,5.24
+CDU/CSU,2018,4,Afghanistan / UN / Taliban,0.052581327488330845,5.26
+CDU/CSU,2018,12,Chemnitz / Regionalbezüge,0.05209338969824754,5.21
+CDU/CSU,2018,15,Russland / Ukraine / Osteuropa,0.049080487874490354,4.91
+CDU/CSU,2018,20,NATO / USA / Osteuropa,0.05329041982278194,5.33
+CDU/CSU,2019,1,Brexit / Großbritannien / CETA,0.05324858444742045,5.32
+CDU/CSU,2019,4,Afghanistan / UN / Taliban,0.04921125717208201,4.92
+CDU/CSU,2019,12,Chemnitz / Regionalbezüge,0.0554026854286596,5.54
+CDU/CSU,2019,15,Russland / Ukraine / Osteuropa,0.04933966918178562,4.93
+CDU/CSU,2019,20,NATO / USA / Osteuropa,0.05256391995662082,5.26
+CDU/CSU,2020,1,Brexit / Großbritannien / CETA,0.04939139732127504,4.94
+CDU/CSU,2020,4,Afghanistan / UN / Taliban,0.050845591935578666,5.08
+CDU/CSU,2020,12,Chemnitz / Regionalbezüge,0.056756985292161936,5.68
+CDU/CSU,2020,15,Russland / Ukraine / Osteuropa,0.05006131253968068,5.01
+CDU/CSU,2020,20,NATO / USA / Osteuropa,0.05043096979240835,5.04
+CDU/CSU,2021,1,Brexit / Großbritannien / CETA,0.05011227788846349,5.01
+CDU/CSU,2021,4,Afghanistan / UN / Taliban,0.053471262540238186,5.35
+CDU/CSU,2021,12,Chemnitz / Regionalbezüge,0.05246900135179417,5.25
+CDU/CSU,2021,15,Russland / Ukraine / Osteuropa,0.051942074622409386,5.19
+CDU/CSU,2021,20,NATO / USA / Osteuropa,0.050874312126978884,5.09
+CDU/CSU,2022,1,Brexit / Großbritannien / CETA,0.04733679813543742,4.73
+CDU/CSU,2022,4,Afghanistan / UN / Taliban,0.04859104720839119,4.86
+CDU/CSU,2022,12,Chemnitz / Regionalbezüge,0.053177292311025734,5.32
+CDU/CSU,2022,15,Russland / Ukraine / Osteuropa,0.060396650313941015,6.04
+CDU/CSU,2022,20,NATO / USA / Osteuropa,0.051560483287102755,5.16
+CDU/CSU,2023,1,Brexit / Großbritannien / CETA,0.04816667641234906,4.82
+CDU/CSU,2023,4,Afghanistan / UN / Taliban,0.04929296060104402,4.93
+CDU/CSU,2023,12,Chemnitz / Regionalbezüge,0.04886954054787572,4.89
+CDU/CSU,2023,15,Russland / Ukraine / Osteuropa,0.05368369089834983,5.37
+CDU/CSU,2023,20,NATO / USA / Osteuropa,0.04996372566983956,5
+FDP,2017,4,Afghanistan / UN / Taliban,0.07542160290340115,7.54
+FDP,2017,7,Hartz / KfW / Sicherheit,0.06355405730065489,6.36
+FDP,2017,10,Freie Demokraten / Krise / Verwaltung,0.06829384651179099,6.83
+FDP,2017,12,Chemnitz / Regionalbezüge,0.044683646467168776,4.47
+FDP,2017,15,Russland / Ukraine / Osteuropa,0.04136367425830768,4.14
+FDP,2018,4,Afghanistan / UN / Taliban,0.052844959671718754,5.28
+FDP,2018,7,Hartz / KfW / Sicherheit,0.0507033520466786,5.07
+FDP,2018,10,Freie Demokraten / Krise / Verwaltung,0.06093648004110948,6.09
+FDP,2018,12,Chemnitz / Regionalbezüge,0.051597384742350504,5.16
+FDP,2018,15,Russland / Ukraine / Osteuropa,0.04712067260833172,4.71
+FDP,2019,4,Afghanistan / UN / Taliban,0.05035821685565819,5.04
+FDP,2019,7,Hartz / KfW / Sicherheit,0.05101137293196741,5.1
+FDP,2019,10,Freie Demokraten / Krise / Verwaltung,0.05351580076443838,5.35
+FDP,2019,12,Chemnitz / Regionalbezüge,0.05422175137762444,5.42
+FDP,2019,15,Russland / Ukraine / Osteuropa,0.04906469582550178,4.91
+FDP,2020,4,Afghanistan / UN / Taliban,0.04909139401384534,4.91
+FDP,2020,7,Hartz / KfW / Sicherheit,0.048851428296587944,4.89
+FDP,2020,10,Freie Demokraten / Krise / Verwaltung,0.057172471798537655,5.72
+FDP,2020,12,Chemnitz / Regionalbezüge,0.06290116798164261,6.29
+FDP,2020,15,Russland / Ukraine / Osteuropa,0.0499247156711618,4.99
+FDP,2021,4,Afghanistan / UN / Taliban,0.051446094891551004,5.14
+FDP,2021,7,Hartz / KfW / Sicherheit,0.047274467445321426,4.73
+FDP,2021,10,Freie Demokraten / Krise / Verwaltung,0.05516700294360252,5.52
+FDP,2021,12,Chemnitz / Regionalbezüge,0.060789744652356766,6.08
+FDP,2021,15,Russland / Ukraine / Osteuropa,0.05111740047401756,5.11
+FDP,2022,4,Afghanistan / UN / Taliban,0.048954919949658886,4.9
+FDP,2022,7,Hartz / KfW / Sicherheit,0.04816820628021222,4.82
+FDP,2022,10,Freie Demokraten / Krise / Verwaltung,0.05198440799541339,5.2
+FDP,2022,12,Chemnitz / Regionalbezüge,0.05401596872777273,5.4
+FDP,2022,15,Russland / Ukraine / Osteuropa,0.06476387322964494,6.48
+FDP,2023,4,Afghanistan / UN / Taliban,0.04880406009667879,4.88
+FDP,2023,7,Hartz / KfW / Sicherheit,0.04712339198695747,4.71
+FDP,2023,10,Freie Demokraten / Krise / Verwaltung,0.05438842114550429,5.44
+FDP,2023,12,Chemnitz / Regionalbezüge,0.053961265164124195,5.4
+FDP,2023,15,Russland / Ukraine / Osteuropa,0.05779644973618019,5.78
+Grüne,2017,4,Afghanistan / UN / Taliban,0.05791564237853517,5.79
+Grüne,2017,5,Afrika / Saudi-Arabien / Jemen,0.05308993254096936,5.31
+Grüne,2017,12,Chemnitz / Regionalbezüge,0.0536748109396551,5.37
+Grüne,2017,15,Russland / Ukraine / Osteuropa,0.04893633665345113,4.89
+Grüne,2017,17,Green Deal / Paris / Lateinamerika,0.04869189317071669,4.87
+Grüne,2018,4,Afghanistan / UN / Taliban,0.054050075919938614,5.41
+Grüne,2018,5,Afrika / Saudi-Arabien / Jemen,0.052338049340276395,5.23
+Grüne,2018,12,Chemnitz / Regionalbezüge,0.061898079437938874,6.19
+Grüne,2018,15,Russland / Ukraine / Osteuropa,0.04707859101201229,4.71
+Grüne,2018,17,Green Deal / Paris / Lateinamerika,0.048822287923951525,4.88
+Grüne,2019,4,Afghanistan / UN / Taliban,0.05203355312310394,5.2
+Grüne,2019,5,Afrika / Saudi-Arabien / Jemen,0.052623820159424836,5.26
+Grüne,2019,12,Chemnitz / Regionalbezüge,0.05848092536933078,5.85
+Grüne,2019,15,Russland / Ukraine / Osteuropa,0.048573674833328764,4.86
+Grüne,2019,17,Green Deal / Paris / Lateinamerika,0.05142589477122715,5.14
+Grüne,2020,4,Afghanistan / UN / Taliban,0.053309850663893356,5.33
+Grüne,2020,5,Afrika / Saudi-Arabien / Jemen,0.04766490237173485,4.77
+Grüne,2020,12,Chemnitz / Regionalbezüge,0.051374613008265804,5.14
+Grüne,2020,15,Russland / Ukraine / Osteuropa,0.05021347512481836,5.02
+Grüne,2020,17,Green Deal / Paris / Lateinamerika,0.052688376629287846,5.27
+Grüne,2021,4,Afghanistan / UN / Taliban,0.05339934624297657,5.34
+Grüne,2021,5,Afrika / Saudi-Arabien / Jemen,0.04857167924447946,4.86
+Grüne,2021,12,Chemnitz / Regionalbezüge,0.06345613068150972,6.35
+Grüne,2021,15,Russland / Ukraine / Osteuropa,0.0515733888896345,5.16
+Grüne,2021,17,Green Deal / Paris / Lateinamerika,0.050301394977432315,5.03
+Grüne,2022,4,Afghanistan / UN / Taliban,0.052466772384335184,5.25
+Grüne,2022,5,Afrika / Saudi-Arabien / Jemen,0.05169652201031171,5.17
+Grüne,2022,12,Chemnitz / Regionalbezüge,0.052424698638025576,5.24
+Grüne,2022,15,Russland / Ukraine / Osteuropa,0.06679885899675075,6.68
+Grüne,2022,17,Green Deal / Paris / Lateinamerika,0.04898506925294105,4.9
+Grüne,2023,4,Afghanistan / UN / Taliban,0.05069922091921698,5.07
+Grüne,2023,5,Afrika / Saudi-Arabien / Jemen,0.04880288489472505,4.88
+Grüne,2023,12,Chemnitz / Regionalbezüge,0.0546226337107087,5.46
+Grüne,2023,15,Russland / Ukraine / Osteuropa,0.05783110044401176,5.78
+Grüne,2023,17,Green Deal / Paris / Lateinamerika,0.05309967661000584,5.31
+Linke,2017,5,Afrika / Saudi-Arabien / Jemen,0.05406767516774603,5.41
+Linke,2017,6,EU / IWF / internationale Wirtschaft,0.054583871607632305,5.46
+Linke,2017,7,Hartz / KfW / Sicherheit,0.058261949494275315,5.83
+Linke,2017,12,Chemnitz / Regionalbezüge,0.042692683900210235,4.27
+Linke,2017,18,Mittelmeer / Libyen,0.05249806638897328,5.25
+Linke,2018,5,Afrika / Saudi-Arabien / Jemen,0.05673061124519309,5.67
+Linke,2018,6,EU / IWF / internationale Wirtschaft,0.0525143192179831,5.25
+Linke,2018,7,Hartz / KfW / Sicherheit,0.057957778459745146,5.8
+Linke,2018,12,Chemnitz / Regionalbezüge,0.05175163039857303,5.18
+Linke,2018,18,Mittelmeer / Libyen,0.051568611276437006,5.16
+Linke,2019,5,Afrika / Saudi-Arabien / Jemen,0.0533425537490139,5.33
+Linke,2019,6,EU / IWF / internationale Wirtschaft,0.05178457009474358,5.18
+Linke,2019,7,Hartz / KfW / Sicherheit,0.055247509351077535,5.52
+Linke,2019,12,Chemnitz / Regionalbezüge,0.05829751901617655,5.83
+Linke,2019,18,Mittelmeer / Libyen,0.04862565746903576,4.86
+Linke,2020,5,Afrika / Saudi-Arabien / Jemen,0.04765701036507048,4.77
+Linke,2020,6,EU / IWF / internationale Wirtschaft,0.05068084748710896,5.07
+Linke,2020,7,Hartz / KfW / Sicherheit,0.05248806907586621,5.25
+Linke,2020,12,Chemnitz / Regionalbezüge,0.05696754135555009,5.7
+Linke,2020,18,Mittelmeer / Libyen,0.05080216354565827,5.08
+Linke,2021,5,Afrika / Saudi-Arabien / Jemen,0.049728934462306855,4.97
+Linke,2021,6,EU / IWF / internationale Wirtschaft,0.052261205115182105,5.23
+Linke,2021,7,Hartz / KfW / Sicherheit,0.05203623365007938,5.2
+Linke,2021,12,Chemnitz / Regionalbezüge,0.06395737922741015,6.4
+Linke,2021,18,Mittelmeer / Libyen,0.05176974981586131,5.18
+Linke,2022,5,Afrika / Saudi-Arabien / Jemen,0.05291923132889077,5.29
+Linke,2022,6,EU / IWF / internationale Wirtschaft,0.049397854088616945,4.94
+Linke,2022,7,Hartz / KfW / Sicherheit,0.051990231283534694,5.2
+Linke,2022,12,Chemnitz / Regionalbezüge,0.0595993405403857,5.96
+Linke,2022,18,Mittelmeer / Libyen,0.05027915168997022,5.03
+Linke,2023,5,Afrika / Saudi-Arabien / Jemen,0.0518992739884461,5.19
+Linke,2023,6,EU / IWF / internationale Wirtschaft,0.05134373122132733,5.13
+Linke,2023,7,Hartz / KfW / Sicherheit,0.04807772047029676,4.81
+Linke,2023,12,Chemnitz / Regionalbezüge,0.05747610933542205,5.75
+Linke,2023,18,Mittelmeer / Libyen,0.052189789870930085,5.22
+SPD,2017,4,Afghanistan / UN / Taliban,0.05552984118245728,5.55
+SPD,2017,8,Bundeswehr / NATO / Auslandseinsätze,0.04846844880296169,4.85
+SPD,2017,12,Chemnitz / Regionalbezüge,0.04337293861183435,4.34
+SPD,2017,14,Rechtsextremismus / Hanau / Lübcke,0.048219304815825315,4.82
+SPD,2017,15,Russland / Ukraine / Osteuropa,0.04803282157121477,4.8
+SPD,2018,4,Afghanistan / UN / Taliban,0.053941349378360086,5.39
+SPD,2018,8,Bundeswehr / NATO / Auslandseinsätze,0.05115560935946472,5.12
+SPD,2018,12,Chemnitz / Regionalbezüge,0.05386326663318208,5.39
+SPD,2018,14,Rechtsextremismus / Hanau / Lübcke,0.04989983100811029,4.99
+SPD,2018,15,Russland / Ukraine / Osteuropa,0.04744570939894385,4.74
+SPD,2019,4,Afghanistan / UN / Taliban,0.04973183266087774,4.97
+SPD,2019,8,Bundeswehr / NATO / Auslandseinsätze,0.049396024948056144,4.94
+SPD,2019,12,Chemnitz / Regionalbezüge,0.054439054116324825,5.44
+SPD,2019,14,Rechtsextremismus / Hanau / Lübcke,0.05229749288211967,5.23
+SPD,2019,15,Russland / Ukraine / Osteuropa,0.048926089934086994,4.89
+SPD,2020,4,Afghanistan / UN / Taliban,0.051331614107324106,5.13
+SPD,2020,8,Bundeswehr / NATO / Auslandseinsätze,0.05104393011791666,5.1
+SPD,2020,12,Chemnitz / Regionalbezüge,0.049671953186726306,4.97
+SPD,2020,14,Rechtsextremismus / Hanau / Lübcke,0.054076208911170646,5.41
+SPD,2020,15,Russland / Ukraine / Osteuropa,0.050249281442444935,5.02
+SPD,2021,4,Afghanistan / UN / Taliban,0.054547749134115725,5.45
+SPD,2021,8,Bundeswehr / NATO / Auslandseinsätze,0.05021252051115831,5.02
+SPD,2021,12,Chemnitz / Regionalbezüge,0.06031547263045567,6.03
+SPD,2021,14,Rechtsextremismus / Hanau / Lübcke,0.05032183225438204,5.03
+SPD,2021,15,Russland / Ukraine / Osteuropa,0.05160463841073635,5.16
+SPD,2022,4,Afghanistan / UN / Taliban,0.04986489680515306,4.99
+SPD,2022,8,Bundeswehr / NATO / Auslandseinsätze,0.0511249619726172,5.11
+SPD,2022,12,Chemnitz / Regionalbezüge,0.05686278107075904,5.69
+SPD,2022,14,Rechtsextremismus / Hanau / Lübcke,0.04981104189711331,4.98
+SPD,2022,15,Russland / Ukraine / Osteuropa,0.0604469704007608,6.04
+SPD,2023,4,Afghanistan / UN / Taliban,0.048098520610986795,4.81
+SPD,2023,8,Bundeswehr / NATO / Auslandseinsätze,0.050340272586177286,5.03
+SPD,2023,12,Chemnitz / Regionalbezüge,0.05532284871101546,5.53
+SPD,2023,14,Rechtsextremismus / Hanau / Lübcke,0.048313814631341816,4.83
+SPD,2023,15,Russland / Ukraine / Osteuropa,0.05481082663296822,5.48
